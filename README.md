@@ -1,4 +1,6 @@
 🛒 Customer Shopping Behavior Analysis
+
+
 📊 End-to-End Data Analysis Project using Python, SQL, and Power BI
 🧠 Business Problem
 
