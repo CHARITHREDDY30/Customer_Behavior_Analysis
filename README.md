@@ -66,15 +66,15 @@ GitHub -	Version control and project documentation
 
 Designed an interactive dashboard showcasing:
 
-Total revenue and sales trends
+* Total revenue and sales trends
 
-Top-performing products & categories
+* Top-performing products & categories
 
-Customer demographics and behavior patterns
+* Customer demographics and behavior patterns
 
-Subscription vs. non-subscription insights
+* Subscription vs. non-subscription insights
 
-Discount and shipping impact on sales
+* Discount and shipping impact on sales
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CHARITHREDDY30/Customer_Behavior_Analysis/main/Screenshot%202025-11-12%20170602.png" 
@@ -97,11 +97,15 @@ Discount and shipping impact on sales
 
 💼 Business Recommendations
 
-*Introduce loyalty programs to reward repeat customers.
-*Offer exclusive subscription benefits to increase retention.
-*Optimize discount policies to balance volume and profit.
-*Highlight top-rated & best-selling products in campaign.
-*Focus marketing on high-revenue age groups and express-shipping users.
+* Introduce loyalty programs to reward repeat customers.
+
+* Offer exclusive subscription benefits to increase retention.
+
+* Optimize discount policies to balance volume and profit.
+
+* Highlight top-rated & best-selling products in campaign.
+
+* Focus marketing on high-revenue age groups and express-shipping users.
 
 📂 Project Structure
 Customer-Shopping-Behavior-Analysis/
@@ -139,7 +143,7 @@ This project successfully delivered:
 
 Charith T
 📍 Tirupati, Andhra Pradesh, India
-📧 Charithreddytatekalava@gmail.com
-💼 CharithReddy Tatekalava
 
-🐙 GitHub Profile
+📧 Charithreddytatekalava@gmail.com
+
+💼 CharithReddy Tatekalava
