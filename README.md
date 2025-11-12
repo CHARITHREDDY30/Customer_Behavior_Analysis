@@ -78,7 +78,7 @@ Discount and shipping impact on sales
 
 <p align="center">
   <img src="https://https://github.com/CHARITHREDDY30/Customer_Behavior_Analysis/blob/main/Screenshot%202025-11-12%20170602.png" 
-       alt="Power BI Dashboard Preview" width="800"/>
+       alt="Power BI Dashboard Preview" width="400"/>
 </p>
 
 
